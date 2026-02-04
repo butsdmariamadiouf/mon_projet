@@ -1,0 +1,2 @@
+﻿print("Hello Git!")
+print("Bienvenue dans le cours")
